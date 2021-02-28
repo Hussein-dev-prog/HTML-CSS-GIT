@@ -4,3 +4,15 @@
   border-radius: 4px;
   background: #fff;
 }
+ul{
+  background-color: rgb(223, 221, 221);
+  padding: 1px;
+  width: 370px;
+}
+li {
+list-style: none;
+margin: 3px;
+background-color: white;
+padding: 5px;
+width: 350px;
+}
